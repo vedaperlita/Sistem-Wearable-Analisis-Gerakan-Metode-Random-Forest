@@ -1,0 +1,614 @@
+UCA SALAH
+
+ESP-ROM:esp32c3-api1-20210207
+Build:Feb  7 2021
+rst:0x1 (POWERON),boot:0xd (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fcd5820,len:0x1174
+load:0x403cbf10,len:0xb34
+load:0x403ce710,len:0x2fb4
+entry 0x403cbf10
+Init MPU6050...
+✅ MPU6050 Dada OK!
+✅ ESP-NOW READY!
+Menunggu data Wrist & Upper Arm...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.00
+F2 : 0.93
+F3 : 0.92
+F4 : 0.01
+F5 : 0.93
+F6 : 34.41
+
+===== ALL FEATURES =====
+0.98, 0.10, 1.27, 0.84, 0.43, 0.95, 38.79, 0.97, 0.09, 1.36, 0.85, 0.51, 0.94, 37.81, 0.93, 0.00, 0.93, 0.92, 0.01, 0.93, 34.41, 
+
+Repetisi ke-1
+Hasil RF: 1
+Hasil: SALAH ❌
+
+===== REKAP =====
+Total Percobaan : 1
+Total Benar     : 0
+Total Salah     : 1
+Persentase Benar : 0.00%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.01
+F2 : 0.96
+F3 : 0.91
+F4 : 0.04
+F5 : 0.92
+F6 : 34.29
+
+===== ALL FEATURES =====
+0.97, 0.13, 1.30, 0.72, 0.58, 0.94, 37.99, 0.96, 0.11, 1.21, 0.79, 0.42, 0.94, 37.04, 0.93, 0.01, 0.96, 0.91, 0.04, 0.92, 34.29, 
+
+Repetisi ke-2
+Hasil RF: 1
+Hasil: SALAH ❌
+
+===== REKAP =====
+Total Percobaan : 2
+Total Benar     : 0
+Total Salah     : 2
+Persentase Benar : 0.00%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+
+===== DADA FEATURE =====
+F0 : 0.94
+F1 : 0.02
+F2 : 0.98
+F3 : 0.90
+F4 : 0.08
+F5 : 0.95
+F6 : 35.71
+
+===== ALL FEATURES =====
+0.96, 0.06, 1.11, 0.86, 0.25, 0.94, 37.27, 0.95, 0.06, 1.16, 0.84, 0.32, 0.96, 36.39, 0.94, 0.02, 0.98, 0.90, 0.08, 0.95, 35.71, 
+
+Repetisi ke-3
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Wrist diterima!
+✅ Data Upper Arm diterima!
+
+===== REKAP =====
+Total Percobaan : 3
+Total Benar     : 0
+Total Salah     : 3
+Persentase Benar : 0.00%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.02
+F2 : 0.97
+F3 : 0.87
+F4 : 0.10
+F5 : 0.94
+F6 : 34.90
+
+===== ALL FEATURES =====
+0.96, 0.09, 1.19, 0.79, 0.40, 0.95, 37.34, 0.96, 0.08, 1.15, 0.81, 0.34, 0.95, 37.09, 0.93, 0.02, 0.97, 0.87, 0.10, 0.94, 34.90, 
+
+Repetisi ke-4
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+===== REKAP =====
+Total Percobaan : 4
+Total Benar     : 0
+Total Salah     : 4
+Persentase Benar : 0.00%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.03
+F2 : 1.00
+F3 : 0.88
+F4 : 0.11
+F5 : 0.92
+F6 : 34.70
+
+===== ALL FEATURES =====
+0.90, 0.09, 1.01, 0.65, 0.37, 0.94, 32.49, 0.93, 0.15, 1.44, 0.67, 0.78, 0.94, 35.61, 0.93, 0.03, 1.00, 0.88, 0.11, 0.92, 34.70, 
+
+Repetisi ke-5
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+===== REKAP =====
+Total Percobaan : 5
+Total Benar     : 0
+Total Salah     : 5
+Persentase Benar : 0.00%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+
+===== DADA FEATURE =====
+F0 : 0.92
+F1 : 0.02
+F2 : 0.96
+F3 : 0.88
+F4 : 0.08
+F5 : 0.92
+F6 : 34.00
+
+===== ALL FEATURES =====
+0.96, 0.09, 1.21, 0.84, 0.37, 0.94, 37.06, 0.93, 0.04, 1.01, 0.86, 0.15, 0.93, 34.77, 0.92, 0.02, 0.96, 0.88, 0.08, 0.92, 34.00, 
+
+Repetisi ke-6
+Hasil RF: 0
+Hasil: BENAR ✅
+
+===== REKAP =====
+Total Percobaan : 6
+Total Benar     : 1
+Total Salah     : 5
+Persentase Benar : 16.67%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+✅ Data Upper Arm diterima!
+
+===== DADA FEATURE =====
+F0 : 0.91
+F1 : 0.04
+F2 : 0.96
+F3 : 0.82
+F4 : 0.15
+F5 : 0.91
+F6 : 32.83
+
+===== ALL FEATURES =====
+0.94, 0.02, 0.97, 0.88, 0.09, 0.94, 35.53, 0.95, 0.05, 1.10, 0.84, 0.26, 0.96, 36.36, 0.91, 0.04, 0.96, 0.82, 0.15, 0.91, 32.83, 
+
+Repetisi ke-7
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Wrist diterima!
+
+===== REKAP =====
+Total Percobaan : 7
+Total Benar     : 1
+Total Salah     : 6
+Persentase Benar : 14.29%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.02
+F2 : 0.96
+F3 : 0.89
+F4 : 0.07
+F5 : 0.93
+F6 : 34.57
+
+===== ALL FEATURES =====
+0.96, 0.11, 1.24, 0.75, 0.48, 0.95, 37.09, 0.94, 0.08, 1.14, 0.79, 0.35, 0.93, 35.32, 0.93, 0.02, 0.96, 0.89, 0.07, 0.93, 34.57, 
+
+Repetisi ke-8
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+===== REKAP =====
+Total Percobaan : 8
+Total Benar     : 1
+Total Salah     : 7
+Persentase Benar : 12.50%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+
+===== DADA FEATURE =====
+F0 : 0.92
+F1 : 0.01
+F2 : 0.96
+F3 : 0.89
+F4 : 0.07
+F5 : 0.92
+F6 : 34.14
+
+===== ALL FEATURES =====
+0.96, 0.15, 1.25, 0.64, 0.62, 0.95, 37.83, 0.95, 0.09, 1.19, 0.78, 0.41, 0.94, 36.56, 0.92, 0.01, 0.96, 0.89, 0.07, 0.92, 34.14, 
+
+Repetisi ke-9
+Hasil RF: 1
+Hasil: SALAH ❌
+
+===== REKAP =====
+Total Percobaan : 9
+Total Benar     : 1
+Total Salah     : 8
+Persentase Benar : 11.11%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.03
+F2 : 0.98
+F3 : 0.89
+F4 : 0.09
+F5 : 0.93
+F6 : 34.53
+
+===== ALL FEATURES =====
+0.96, 0.12, 1.22, 0.73, 0.50, 0.95, 37.56, 0.96, 0.09, 1.25, 0.80, 0.45, 0.97, 37.39, 0.93, 0.03, 0.98, 0.89, 0.09, 0.93, 34.53, 
+
+Repetisi ke-10
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Wrist diterima!
+✅ Data Upper Arm diterima!
+
+===== REKAP =====
+Total Percobaan : 10
+Total Benar     : 1
+Total Salah     : 9
+Persentase Benar : 10.00%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.01
+F2 : 0.98
+F3 : 0.89
+F4 : 0.09
+F5 : 0.93
+F6 : 34.69
+
+===== ALL FEATURES =====
+0.98, 0.11, 1.33, 0.74, 0.59, 0.95, 39.28, 0.98, 0.10, 1.36, 0.84, 0.52, 0.95, 39.16, 0.93, 0.01, 0.98, 0.89, 0.09, 0.93, 34.69, 
+
+Repetisi ke-11
+Hasil RF: 1
+Hasil: SALAH ❌
+
+===== REKAP =====
+Total Percobaan : 11
+Total Benar     : 1
+Total Salah     : 10
+Persentase Benar : 9.09%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+✅ Data Upper Arm diterima!
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.01
+F2 : 0.97
+F3 : 0.91
+F4 : 0.06
+F5 : 0.93
+F6 : 34.85
+
+===== ALL FEATURES =====
+0.95, 0.10, 1.15, 0.71, 0.44, 0.96, 36.48, 0.94, 0.06, 1.11, 0.77, 0.34, 0.93, 35.54, 0.93, 0.01, 0.97, 0.91, 0.06, 0.93, 34.85, 
+
+Repetisi ke-12
+Hasil RF: 1
+Hasil: SALAH ❌
+
+===== REKAP =====
+Total Percobaan : 12
+Total Benar     : 1
+Total Salah     : 11
+Persentase Benar : 8.33%
+
+Menunggu gerakan berikutnya...
+✅ Data Wrist diterima!
+✅ Data Upper Arm diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.02
+F2 : 0.96
+F3 : 0.89
+F4 : 0.07
+F5 : 0.93
+F6 : 34.62
+
+===== ALL FEATURES =====
+0.95, 0.06, 1.11, 0.84, 0.27, 0.95, 36.01, 0.95, 0.06, 1.18, 0.86, 0.31, 0.95, 36.50, 0.93, 0.02, 0.96, 0.89, 0.07, 0.93, 34.62, 
+
+Repetisi ke-13
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Wrist diterima!
+✅ Data Upper Arm diterima!
+
+===== REKAP =====
+Total Percobaan : 13
+Total Benar     : 1
+Total Salah     : 12
+Persentase Benar : 7.69%
+
+Menunggu gerakan berikutnya...
+✅ Data Wrist diterima!
+✅ Data Upper Arm diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+✅ Data Wrist diterima!
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.01
+F2 : 0.96
+F3 : 0.90
+F4 : 0.06
+F5 : 0.92
+F6 : 34.28
+
+===== ALL FEATURES =====
+0.94, 0.01, 0.96, 0.91, 0.05, 0.94, 35.41, 0.96, 0.17, 1.67, 0.71, 0.97, 0.93, 38.12, 0.93, 0.01, 0.96, 0.90, 0.06, 0.92, 34.28, 
+
+Repetisi ke-14
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Upper Arm diterima!
+
+===== REKAP =====
+Total Percobaan : 14
+Total Benar     : 1
+Total Salah     : 13
+Persentase Benar : 7.14%
+
+Menunggu gerakan berikutnya...
+✅ Data Wrist diterima!
+✅ Data Upper Arm diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+✅ Data Wrist diterima!
+
+===== DADA FEATURE =====
+F0 : 0.91
+F1 : 0.03
+F2 : 0.97
+F3 : 0.86
+F4 : 0.11
+F5 : 0.91
+F6 : 33.46
+
+===== ALL FEATURES =====
+0.94, 0.02, 0.97, 0.91, 0.06, 0.94, 35.17, 0.94, 0.05, 1.04, 0.81, 0.23, 0.94, 35.25, 0.91, 0.03, 0.97, 0.86, 0.11, 0.91, 33.46, 
+
+Repetisi ke-15
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Upper Arm diterima!
+
+===== REKAP =====
+Total Percobaan : 15
+Total Benar     : 1
+Total Salah     : 14
+Persentase Benar : 6.67%
+
+Menunggu gerakan berikutnya...
+✅ Data Wrist diterima!
+✅ Data Upper Arm diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+✅ Data Wrist diterima!
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.03
+F2 : 0.99
+F3 : 0.86
+F4 : 0.13
+F5 : 0.93
+F6 : 34.48
+
+===== ALL FEATURES =====
+0.93, 0.02, 0.96, 0.86, 0.10, 0.94, 34.77, 0.95, 0.04, 1.03, 0.87, 0.16, 0.95, 36.05, 0.93, 0.03, 0.99, 0.86, 0.13, 0.93, 34.48, 
+
+Repetisi ke-16
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Upper Arm diterima!
+
+===== REKAP =====
+Total Percobaan : 16
+Total Benar     : 1
+Total Salah     : 15
+Persentase Benar : 6.25%
+
+Menunggu gerakan berikutnya...
+✅ Data Wrist diterima!
+✅ Data Upper Arm diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.02
+F2 : 0.97
+F3 : 0.90
+F4 : 0.07
+F5 : 0.93
+F6 : 34.57
+
+===== ALL FEATURES =====
+0.94, 0.07, 1.08, 0.82, 0.26, 0.92, 35.73, 0.94, 0.05, 1.07, 0.85, 0.22, 0.94, 35.77, 0.93, 0.02, 0.97, 0.90, 0.07, 0.93, 34.57, 
+
+Repetisi ke-17
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Wrist diterima!
+
+===== REKAP =====
+Total Percobaan : 17
+Total Benar     : 1
+Total Salah     : 16
+Persentase Benar : 5.88%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+✅ Data Upper Arm diterima!
+
+===== DADA FEATURE =====
+F0 : 0.92
+F1 : 0.01
+F2 : 0.95
+F3 : 0.90
+F4 : 0.05
+F5 : 0.92
+F6 : 34.17
+
+===== ALL FEATURES =====
+0.94, 0.02, 1.01, 0.89, 0.12, 0.94, 35.27, 0.94, 0.05, 1.06, 0.77, 0.28, 0.94, 35.17, 0.92, 0.01, 0.95, 0.90, 0.05, 0.92, 34.17, 
+
+Repetisi ke-18
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Wrist diterima!
+
+===== REKAP =====
+Total Percobaan : 18
+Total Benar     : 1
+Total Salah     : 17
+Persentase Benar : 5.56%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+✅ Data Upper Arm diterima!
+
+===== DADA FEATURE =====
+F0 : 0.93
+F1 : 0.03
+F2 : 1.00
+F3 : 0.86
+F4 : 0.14
+F5 : 0.93
+F6 : 34.79
+
+===== ALL FEATURES =====
+0.96, 0.06, 1.14, 0.82, 0.33, 0.95, 36.72, 0.93, 0.07, 1.05, 0.74, 0.31, 0.94, 34.89, 0.93, 0.03, 1.00, 0.86, 0.14, 0.93, 34.79, 
+
+Repetisi ke-19
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Wrist diterima!
+
+===== REKAP =====
+Total Percobaan : 19
+Total Benar     : 1
+Total Salah     : 18
+Persentase Benar : 5.26%
+
+Menunggu gerakan berikutnya...
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+
+ Wrist & Upper Arm masuk, ambil window dada...
+✅ Data Upper Arm diterima!
+
+===== DADA FEATURE =====
+F0 : 0.92
+F1 : 0.01
+F2 : 0.94
+F3 : 0.86
+F4 : 0.08
+F5 : 0.92
+F6 : 33.52
+
+===== ALL FEATURES =====
+0.96, 0.20, 1.36, 0.67, 0.69, 0.93, 38.66, 0.94, 0.10, 1.11, 0.70, 0.41, 0.94, 35.92, 0.92, 0.01, 0.94, 0.86, 0.08, 0.92, 33.52, 
+
+Repetisi ke-20
+Hasil RF: 1
+Hasil: SALAH ❌
+✅ Data Wrist diterima!
+
+===== REKAP =====
+Total Percobaan : 20
+Total Benar     : 1
+Total Salah     : 19
+Persentase Benar : 5.00%
+
+========================
+PENGUJIAN SELESAI
+========================
+Total Repetisi : 20
+Benar : 1
+Salah : 19
+Akurasi : 5.00%
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+✅ Data Upper Arm diterima!
+✅ Data Wrist diterima!
+E BO 
