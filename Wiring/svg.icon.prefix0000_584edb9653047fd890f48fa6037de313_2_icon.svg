@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="Layer_1" height="0.5in" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.1" width="0.5in" y="0px" x="0px" viewBox="0 0 36 36" gorn="0" >
+    <desc >
+        <referenceFile >part2.svg</referenceFile>
+    </desc>
+    <defs id="defs16" />
+    <g id="g6" gorn="0.2" >
+        <g id="silkscreen" gorn="0.2.0" >
+            <circle id="circle45" r="18" fill="#333333" cx="18" gorn="0.2.0.0"  cy="18"/>
+        </g>
+    </g>
+    <circle id="circle8" r="1.9" fill="#1A1A1A" cx="18" gorn="0.3"  cy="18.1"/>
+    <g id="g14" gorn="0.4" >
+        <path id="path10" fill="#1a1a1a" d="m 5.1,17.9 c 0,-1.1 -0.9,-2 -2,-2 -1.1,0 -2,0.9 -2,2 0,1.1 0.9,2 2,2 1.1,0 2,-0.9 2,-2 z m -3.7977752,0 c -0.010454,-0.889075 0.7000661,-1.787946 1.8,-1.8 0.9913609,-0.01086 1.8,0.819503 1.8,1.8 0,0.9 -0.7,1.8 -1.8,1.8 -1.0782722,0 -1.7891361,-0.876047 -1.8,-1.8 z" gorn="0.4.0" />
+        <polygon id="polygon12" fill="#1A1A1A" points="3.3,17.7 3.3,16.8 2.9,16.8 2.9,17.7 2,17.7 2,18.1 2.9,18.1 2.9,19 3.3,19    3.3,18.1 4.2,18.1 4.2,17.7  " gorn="0.4.1" />
+    </g>
+    <g id="g20" gorn="0.5" >
+        <rect id="connector1pin" height="2.8" width="2.8" y="16.6" fill="#9A916C" x="27.4" gorn="0.5.0" />
+    </g>
+    <g id="g26" gorn="0.6" >
+        <rect id="connector0pin" height="2.8" width="2.8" y="16.5" fill="#9A916C" x="5.8" gorn="0.6.0" />
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="0.55118108in" id="svg4035" version="1.1" width="0.55118108in" viewBox="0 0 551.18125 551.18125" gorn="0" >
+    <metadata id="metadata24" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs22" />
+    <desc id="desc2" >
+        <referenceFile >prefix0000_683b62db06dd54dd80bad91d5979a5b7_2_pcb.svg</referenceFile>
+    </desc>
+    <g id="silkscreen" gorn="0.3" >
+        <circle stroke="#000000" id="circle45" stroke-width="10" r="269.02664" cx="275.59064" fill="none" gorn="0.3.0"  cy="275.59064"/>
+    </g>
+    <g id="copper1" gorn="0.4" >
+        <g id="copper0" gorn="0.4.0" >
+            <circle stroke="#f7bd13" id="connector0pin" stroke-width="20" r="29" cx="124.41667" fill="none" gorn="0.4.0.0"  cy="275.72284"/>
+            <circle stroke="#f7bd13" id="connector1pin" stroke-width="20" r="29" cx="424.00012" fill="none" gorn="0.4.0.1"  cy="276.34766"/>
+        </g>
+    </g>
+</svg>
